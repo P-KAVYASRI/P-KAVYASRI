@@ -44,7 +44,7 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: (add your link)
+- 💼 LinkedIn: https://www.linkedin.com/in/kavya-sri-peetani-95475a392/
 - 💻 GitHub: https://github.com/P-KAVYASRI
 
 ---
