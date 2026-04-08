@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Peetani Kavya Sri</h1>
+<h3 align="center">💻 Aspiring Full Stack Developer | MERN Stack Learner</h3>
 
-<!--
-**P-KAVYASRI/P-KAVYASRI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- 🎓 Computer Science Student  
+- 💡 Passionate about Web Development  
+- 🚀 Currently learning MERN Stack  
+- 📈 Improving problem-solving skills daily  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack & Skills
+
+### 💻 Languages:
+- Java
+- Python
+- JavaScript
+
+### 🌐 Web Development:
+- HTML, CSS, TailwindCSS
+- React.js
+- Node.js, Express.js
+
+### 🗄️ Databases:
+- MongoDB
+- MySQL
+
+### 🛠 Tools:
+- Git & GitHub
+- VS Code
+- Postman
+
+---
+
+## 📌 Featured Projects
+
+- 🔹 QuickAI App  
+- 🔹 Portfolio Website  
+- 🔹 PhoneBook App  
+- 🔹 Dashboard UI  
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: (add your link)
+- 💻 GitHub: https://github.com/P-KAVYASRI
+
+---
+
+⭐ *“Consistent learning is the key to success”*
