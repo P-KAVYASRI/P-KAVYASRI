@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peetani Kavya Sri</h1>
-<h3 align="center">💻 MERN Stack Developer | Java Enthusiast</h3>
+<h3 align="center">👩🏻‍💻 MERN Stack Developer| PERN Stack Developer | Java Enthusiast </h3>
 
 ---
 
