@@ -16,10 +16,10 @@
 
 ```javascript
 const kavyaSri = {
-  🎓 education  : "B.Tech Computer Science",
+  🎓 education  : "B.Tech Computer Science Engineering",
   📍 location   : "Andhra Pradesh, India",
-  💻 stack      : ["MERN", "PERN", "Java"],
-  🌱 learning   : ["System Design", "DSA", "REST APIs"],
+  💻 stack      : ["MERN", "PERN", "Java","MySQL", "MongoDB","PostmanAPI"],
+  🌱 learning   : ["System Design", "DSA", "REST APIs", "GitHub"],
   💡 interests  : ["Web Development", "AI Integration", "UI/UX"],
   🎯 goal       : "Land my first dev role & keep shipping projects",
   ✨ motto      : "Consistent learning is the key to success"
@@ -64,10 +64,11 @@ const kavyaSri = {
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
 |---|---|---|---|
-| **QuickAI App** | AI-powered productivity tool | React, Node.js, API Integration | [View Repo](#) |
-| **Portfolio Website** | Personal developer portfolio | HTML, CSS, JavaScript | [View Repo](#) |
-| **PhoneBook App** | Full-stack contact management app | MERN Stack | [View Repo](#) |
-| **Dashboard UI** | Admin dashboard with analytics | React, CSS | [View Repo](#) |
+| **PhoneBook App** | Full-stack contact management app | MERN Stack | [View Repo](https://github.com/P-KAVYASRI/PhoneBook-App) |
+| **URL Shortener App** | Full-stack URL shortening web application | MERN Stack | [View Repo](https://github.com/P-KAVYASRI/URL-SHORTNER) |
+| **QuickAI App** | AI-powered productivity tool | React, Node.js, API Integration | [View Repo](https://github.com/P-KAVYASRI/QuickAI-APP) |
+| **Portfolio Website** | Personal developer portfolio | HTML, CSS, JavaScript | [View Repo](https://github.com/P-KAVYASRI/KavyasriPortfolio) |
+| **Dashboard UI** | Admin dashboard with analytics | React, CSS | [View Repo](https://github.com/P-KAVYASRI/Dashboard_ui) |
 
 > 💡 *Replace `[View Repo](#)` with your actual repository links!*
 
