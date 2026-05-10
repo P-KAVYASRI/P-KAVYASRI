@@ -136,6 +136,51 @@ motto      : "Consistent learning is the key to success."
 </div>
 
 <!-- Activity Graph -->
+## `$ git log --stats`
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=P-KAVYASRI&show_icons=true&theme=github_dark&hide_border=true&title_color=8B949E&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-KAVYASRI&layout=compact&theme=github_dark&hide_border=true&title_color=8B949E&text_color=C9D1D9&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=P-KAVYASRI&theme=github-dark-blue&hide_border=true&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=8B949E"/>
+
+</div>
+
+<!-- Radar + Productive Time side by side -->
+<div align="center">
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=P-KAVYASRI&theme=github_dark"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=P-KAVYASRI&theme=github_dark&utcOffset=5.5"/>
+
+</div>
+
+<!-- Trophies -->
+<!-- Trophies -->
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=P-KAVYASRI&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=3&rank=SSS,SS,S,AAA,AA,A,B,C"/>
+</div>
+
+<!-- LeetCode + WakaTime side by side -->
+<div align="center">
+
+<img height="200em" src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=Courier%20Prime&ext=contest&hide_border=true"/>
+&nbsp;&nbsp;
+<img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=P-KAVYASRI&theme=github_dark&hide_border=true&title_color=8B949E&text_color=C9D1D9&bg_color=0D1117&layout=compact"/>
+
+</div>
+
+<!-- Dev Quote -->
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</div>
+
+<!-- Activity Graph -->
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=P-KAVYASRI&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B949E&line=4A90D9&point=4A90D9&area=true&height=200&custom_title=Contribution+Graph"/>
 </div>
