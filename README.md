@@ -82,18 +82,18 @@ motto      : "Consistent learning is the key to success."
 
 | # | Project | Description | Stack | Link |
 |---|---------|-------------|-------|------|
-| 01 | **QuickAI App** | AI-powered productivity web tool | React · Node.js · REST API | [→ View](#) |
-| 02 | **Portfolio Website** | Personal developer portfolio | HTML · CSS · JavaScript | [→ View](#) |
-| 03 | **PhoneBook App** | Full-stack contact management system | MERN Stack | [→ View](#) |
-| 04 | **Dashboard UI** | Responsive admin analytics dashboard | React · CSS | [→ View](#) |
+| 01 | | **URL Shortener App** | Full-stack URL shortening web application | MERN Stack | [→ View](https://github.com/P-KAVYASRI/URL-SHORTNER) |
+| 02 | **PhoneBook App** | Full-stack contact management system | MERN Stack | [→ View](https://github.com/P-KAVYASRI/PhoneBook-App) |
+| 03 | **Portfolio Website** | Personal developer portfolio | HTML · CSS · JavaScript | [→ View](https://github.com/P-KAVYASRI/KavyasriPortfolio) |
+| 04 | **QuickAI App** | AI-powered productivity web tool | React · Node.js · REST API | [→ View](https://github.com/P-KAVYASRI/QuickAI-APP) |
+| 05 | **Dashboard UI** | Responsive admin analytics dashboard | React · CSS | [→ View](https://github.com/P-KAVYASRI/Dashboard_ui) |
 
-> ⚑ Replace `[→ View](#)` with your actual GitHub repository links.
 
 <br/>
 
 ---
 
-## ` Git log --stats`
+## `$ git log --stats`
 
 <div align="center">
 
@@ -108,16 +108,35 @@ motto      : "Consistent learning is the key to success."
 
 </div>
 
+<!-- GitHub Trophies -->
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=P-KAVYASRI&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B949E&line=58A6FF&point=C9D1D9)
+<img src="https://github-profile-trophy.vercel.app/?username=P-KAVYASRI&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 
 </div>
 
-<br/>
+<!-- WakaTime -->
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=P-KAVYASRI&theme=github_dark&hide_border=true&title_color=8B949E&text_color=C9D1D9&bg_color=0D1117"/>
 
+</div>
+
+<!-- LeetCode -->
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=Courier%20Prime&ext=contest&hide_border=true"/>
+
+</div>
+
+<!-- Random Dev Quote -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+</div>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=P-KAVYASRI&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B949E&line=58A6FF&point=C9D1D9)
 ## `Currently.log`
 
 ```
