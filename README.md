@@ -21,18 +21,18 @@
 ## `ABOUT ME`
 
 ```yaml
-name       : Peetani Kavya Sri
-role       : Full Stack Web Developer (Fresher)
-education  : B.Tech — Computer Science Engineering
-location   : Andhra Pradesh, India
-pronouns   : she / her
-status     : Actively building, learning, and growing
-interests  :
+Name       : Peetani Kavya Sri
+Role       : Full Stack Web Developer (Fresher)
+Education  : B.Tech — Computer Science Engineering
+Location   : Andhra Pradesh, India
+Pronouns   : she / her
+Status     : Actively building, learning, and growing
+Interests  :
   - Web Development (MERN & PERN)
   - Backend Architecture
   - AI-powered Applications
   - Open Source Contribution
-motto      : "Consistent learning is the key to success."
+Motto      : "Consistent learning is the key to success."
 ```
 
 <br/>
