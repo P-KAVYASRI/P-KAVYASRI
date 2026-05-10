@@ -9,13 +9,9 @@
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=1200&color=C9D1D9&center=true&vCenter=true&width=580&lines=MERN+Stack+%7C+PERN+Stack+%7C+Java;Building+reliable+web+applications;Turning+logic+into+beautiful+products;Open+to+collaborate+%26+contribute)](https://git.io/typing-svg)
-
 </div>
-
 ---
-
 <br/>
 
 ## `ABOUT ME`
@@ -34,6 +30,21 @@ Interests  :
   - Open Source Contribution
 Motto      : "Consistent learning is the key to success."
 ```
+
+<br/>
+
+## `Projects.md`
+
+<br/>
+
+| # | Project | Description | Stack | Link |
+|---|---------|-------------|-------|------|
+| 01 | **URL Shortener App** | Full-stack URL shortening web application | MERN Stack | [→ View](https://github.com/P-KAVYASRI/URL-SHORTNER) |
+| 02 | **PhoneBook App** | Full-stack contact management system | MERN Stack | [→ View](https://github.com/P-KAVYASRI/PhoneBook-App) |
+| 03 | **Portfolio Website** | Personal developer portfolio | HTML · CSS · JavaScript | [→ View](https://github.com/P-KAVYASRI/KavyasriPortfolio) |
+| 04 | **QuickAI App** | AI-powered productivity web tool | React · Node.js · REST API | [→ View](https://github.com/P-KAVYASRI/QuickAI-APP) |
+| 05 | **Dashboard UI** | Responsive admin analytics dashboard | React · CSS | [→ View](https://github.com/P-KAVYASRI/Dashboard_ui) |
+
 
 <br/>
 
@@ -71,23 +82,6 @@ Motto      : "Consistent learning is the key to success."
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-%230078D4.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
-
-<br/>
-
----
-
-## `Projects.md`
-
-<br/>
-
-| # | Project | Description | Stack | Link |
-|---|---------|-------------|-------|------|
-| 01 | **URL Shortener App** | Full-stack URL shortening web application | MERN Stack | [→ View](https://github.com/P-KAVYASRI/URL-SHORTNER) |
-| 02 | **PhoneBook App** | Full-stack contact management system | MERN Stack | [→ View](https://github.com/P-KAVYASRI/PhoneBook-App) |
-| 03 | **Portfolio Website** | Personal developer portfolio | HTML · CSS · JavaScript | [→ View](https://github.com/P-KAVYASRI/KavyasriPortfolio) |
-| 04 | **QuickAI App** | AI-powered productivity web tool | React · Node.js · REST API | [→ View](https://github.com/P-KAVYASRI/QuickAI-APP) |
-| 05 | **Dashboard UI** | Responsive admin analytics dashboard | React · CSS | [→ View](https://github.com/P-KAVYASRI/Dashboard_ui) |
-
 
 <br/>
 
