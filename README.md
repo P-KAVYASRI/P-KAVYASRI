@@ -66,7 +66,7 @@ const kavyaSri = {
 |---|---|---|---|
 | **QuickAI App** | AI-powered productivity tool | React, Node.js, API Integration | [View Repo](#) |
 | **Portfolio Website** | Personal developer portfolio | HTML, CSS, JavaScript | [View Repo](#) |
-| **PhoneBook App** | Full-stack contact management app | MERN Stack | [View Repo](#) |
+| **PhoneBook App** | Full-stack contact management app | JAVA AND SQL | [View Repo](#) |
 | **Dashboard UI** | Admin dashboard with analytics | React, CSS | [View Repo](#) |
 
 > 💡 *Replace `[View Repo](#)` with your actual repository links!*
