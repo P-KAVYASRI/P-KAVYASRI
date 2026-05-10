@@ -18,7 +18,7 @@
 
 <br/>
 
-## `$ whoami`
+## `ABOUT ME`
 
 ```yaml
 name       : Peetani Kavya Sri
@@ -39,7 +39,7 @@ motto      : "Consistent learning is the key to success."
 
 ---
 
-## `$ ls ./tech-stack`
+## `Tech-stack`
 
 **Core Languages**
 
@@ -76,7 +76,7 @@ motto      : "Consistent learning is the key to success."
 
 ---
 
-## `$ cat ./projects.md`
+## `Projects.md`
 
 <br/>
 
@@ -93,7 +93,7 @@ motto      : "Consistent learning is the key to success."
 
 ---
 
-## `$ git log --stats`
+## ` Git log --stats`
 
 <div align="center">
 
@@ -118,7 +118,7 @@ motto      : "Consistent learning is the key to success."
 
 ---
 
-## `$ cat ./currently.log`
+## `Currently.log`
 
 ```
 [INFO]  Strengthening DSA skills for placement readiness
