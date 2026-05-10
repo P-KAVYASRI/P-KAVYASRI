@@ -92,7 +92,6 @@ motto      : "Consistent learning is the key to success."
 <br/>
 
 ---
-
 ## `$ git log --stats`
 
 <div align="center">
@@ -108,35 +107,38 @@ motto      : "Consistent learning is the key to success."
 
 </div>
 
-<!-- GitHub Trophies -->
+<!-- Radar + Productive Time side by side -->
 <div align="center">
 
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=P-KAVYASRI&theme=github_dark"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=P-KAVYASRI&theme=github_dark&utcOffset=5.5"/>
+
+</div>
+
+<!-- Trophies -->
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=P-KAVYASRI&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+</div>
+
+<!-- LeetCode + WakaTime side by side -->
+<div align="center">
+
+<img height="200em" src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=Courier%20Prime&ext=contest&hide_border=true"/>
+&nbsp;&nbsp;
+<img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=P-KAVYASRI&theme=github_dark&hide_border=true&title_color=8B949E&text_color=C9D1D9&bg_color=0D1117&layout=compact"/>
 
 </div>
 
-<!-- WakaTime -->
+<!-- Dev Quote -->
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=P-KAVYASRI&theme=github_dark&hide_border=true&title_color=8B949E&text_color=C9D1D9&bg_color=0D1117"/>
-
-</div>
-
-<!-- LeetCode -->
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=Courier%20Prime&ext=contest&hide_border=true"/>
-
-</div>
-
-<!-- Random Dev Quote -->
-<div align="center">
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-
 </div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=P-KAVYASRI&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B949E&line=58A6FF&point=C9D1D9)
+<!-- Activity Graph -->
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=P-KAVYASRI&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B949E&line=4A90D9&point=4A90D9&area=true&height=200&custom_title=Contribution+Graph"/>
+</div>
 ## `Currently.log`
 
 ```
