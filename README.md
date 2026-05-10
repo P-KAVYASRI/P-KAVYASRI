@@ -96,13 +96,6 @@ Motto      : "Consistent learning is the key to success."
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=P-KAVYASRI&show_icons=true&theme=github_dark&hide_border=true&title_color=8B949E&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-KAVYASRI&layout=compact&theme=github_dark&hide_border=true&title_color=8B949E&text_color=C9D1D9&bg_color=0D1117"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=P-KAVYASRI&theme=github-dark-blue&hide_border=true&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=8B949E"/>
 
 </div>
