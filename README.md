@@ -82,7 +82,7 @@ motto      : "Consistent learning is the key to success."
 
 | # | Project | Description | Stack | Link |
 |---|---------|-------------|-------|------|
-| 01 | | **URL Shortener App** | Full-stack URL shortening web application | MERN Stack | [→ View](https://github.com/P-KAVYASRI/URL-SHORTNER) |
+| 01 | **URL Shortener App** | Full-stack URL shortening web application | MERN Stack | [→ View](https://github.com/P-KAVYASRI/URL-SHORTNER) |
 | 02 | **PhoneBook App** | Full-stack contact management system | MERN Stack | [→ View](https://github.com/P-KAVYASRI/PhoneBook-App) |
 | 03 | **Portfolio Website** | Personal developer portfolio | HTML · CSS · JavaScript | [→ View](https://github.com/P-KAVYASRI/KavyasriPortfolio) |
 | 04 | **QuickAI App** | AI-powered productivity web tool | React · Node.js · REST API | [→ View](https://github.com/P-KAVYASRI/QuickAI-APP) |
@@ -92,7 +92,7 @@ motto      : "Consistent learning is the key to success."
 <br/>
 
 ---
-## `$ git log --stats`
+## `GitHub Status`
 
 <div align="center">
 
@@ -160,11 +160,6 @@ motto      : "Consistent learning is the key to success."
 
 </div>
 
-<!-- Trophies -->
-<!-- Trophies -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=P-KAVYASRI&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=3&rank=SSS,SS,S,AAA,AA,A,B,C"/>
-</div>
 
 <!-- LeetCode + WakaTime side by side -->
 <div align="center">
@@ -184,21 +179,21 @@ motto      : "Consistent learning is the key to success."
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=P-KAVYASRI&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B949E&line=4A90D9&point=4A90D9&area=true&height=200&custom_title=Contribution+Graph"/>
 </div>
-## `Currently.log`
+## `Currently Focusing on `
 
 ```
-[INFO]  Strengthening DSA skills for placement readiness
-[INFO]  Deep-diving into MERN & PERN architecture patterns
-[INFO]  Exploring backend APIs and system design fundamentals
-[INFO]  Building a polished project portfolio
-[OPEN]  Available for internships, collaborations & entry-level roles
+ Strengthening DSA skills for placement readiness
+ Deep-diving into MERN & PERN architecture patterns
+ Exploring backend APIs and system design fundamentals
+ Building a polished project portfolio
+ Available for internships, collaborations & entry-level roles
 ```
 
 <br/>
 
 ---
 
-## `$ ./connect.sh`
+## `Connections`
 
 <div align="center">
 
