@@ -11,8 +11,6 @@
 ```
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=1200&color=C9D1D9&center=true&vCenter=true&width=580&lines=MERN+Stack+%7C+PERN+Stack+%7C+Java;Building+reliable+web+applications;Turning+logic+into+beautiful+products;Open+to+collaborate+%26+contribute)](https://git.io/typing-svg)
 </div>
----
-<br/>
 
 ## `ABOUT ME`
 
