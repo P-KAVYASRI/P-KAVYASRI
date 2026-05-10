@@ -14,16 +14,19 @@
 
 ## 🧕 About Me
 
+## 🧕 About Me
+
 ```javascript
-
-  🎓 Education": "B.Tech Computer Science Engineering",
-  📍 Location": "Andhra Pradesh, India",
-  💻 Stack": ["MERN", "PERN", "Java", "MySQL", "MongoDB", "PostmanAPI"],
-  🌱 Learning": ["System Design", "DSA", "REST APIs", "GitHub"],
-  💡 Interests": ["Web Development", "AI Integration", "UI/UX"],
-  🎯 Goal": "Land my first dev role & keep shipping projects",
-  ✨ Motto": "Consistent learning is the key to success"
-
+const kavyaSri = {
+  Education: "B.Tech Computer Science Engineering",
+  Location: "Andhra Pradesh, India",
+  Stack: ["MERN", "PERN", "Java", "MySQL", "MongoDB", "PostmanAPI"],
+  Learning: ["System Design", "DSA", "REST APIs", "GitHub"],
+  Interests: ["Web Development", "AI Integration", "UI/UX"],
+  Goal: "Land my first dev role & keep shipping projects",
+  Motto: "Consistent learning is the key to success"
+};
+```
 
 ...
 ---
