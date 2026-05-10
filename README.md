@@ -16,13 +16,13 @@
 
 ```javascript
 const kavyaSri = {
-  🎓 education  : "B.Tech Computer Science Engineering",
-  📍 location   : "Andhra Pradesh, India",
-  💻 stack      : ["MERN", "PERN", "Java","MySQL", "MongoDB","PostmanAPI"],
-  🌱 learning   : ["System Design", "DSA", "REST APIs", "GitHub"],
-  💡 interests  : ["Web Development", "AI Integration", "UI/UX"],
-  🎯 goal       : "Land my first dev role & keep shipping projects",
-  ✨ motto      : "Consistent learning is the key to success"
+  "🎓 education": "B.Tech Computer Science Engineering",
+  "📍 location": "Andhra Pradesh, India",
+  "💻 stack": ["MERN", "PERN", "Java", "MySQL", "MongoDB"],
+  "🌱 learning": ["System Design", "DSA", "REST APIs", "GitHub"],
+  "💡 interests": ["Web Development", "AI Integration", "UI/UX"],
+  "🎯 goal": "Land my first dev role & keep shipping projects",
+  "✨ motto": "Consistent learning is the key to success"
 };
 ```
 
