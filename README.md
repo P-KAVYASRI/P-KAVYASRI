@@ -80,12 +80,6 @@ Motto      : "Consistent learning is the key to success."
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=P-KAVYASRI&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=P-KAVYASRI&theme=github_dark"/>
 &nbsp;&nbsp;
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=P-KAVYASRI&theme=github_dark&utcOffset=5.5"/>
@@ -94,20 +88,16 @@ Motto      : "Consistent learning is the key to success."
 
 <div align="center">
 
-<img height="200em" src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=Courier%20Prime&ext=contest&hide_border=true"/>
+<img height="200em" src="https://leetcard.jacoblin.cool/klu_2200030534?theme=dark&font=Courier%20Prime&ext=contest&hide_border=true"/>
 
 </div>
 
 <div align="center">
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-
 </div>
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=P-KAVYASRI&theme=github-compact&hide_border=true"/>
-
 </div>
 
 ## `Currently Focusing on `
