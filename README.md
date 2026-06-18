@@ -76,15 +76,14 @@ Motto      : "Consistent learning is the key to success."
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
 
 ---
-## `GitHub Status`
+## GitHub Status
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=P-KAVYASRI&theme=github-dark-blue&hide_border=true&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=8B949E"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=P-KAVYASRI&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
-<!-- Radar + Productive Time side by side -->
 <div align="center">
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=P-KAVYASRI&theme=github_dark"/>
@@ -93,24 +92,22 @@ Motto      : "Consistent learning is the key to success."
 
 </div>
 
-
-<!-- LeetCode + WakaTime side by side -->
 <div align="center">
 
 <img height="200em" src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=dark&font=Courier%20Prime&ext=contest&hide_border=true"/>
-&nbsp;&nbsp;
-<img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=P-KAVYASRI&theme=github_dark&hide_border=true&title_color=8B949E&text_color=C9D1D9&bg_color=0D1117&layout=compact"/>
 
 </div>
 
-<!-- Dev Quote -->
 <div align="center">
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
 </div>
 
-<!-- Activity Graph -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=P-KAVYASRI&theme=github-compact&hide_border=true&bg_color=0D1117&color=39D353&line=39D353&point=39D353&area=true&area_color=239a3b&height=120&custom_title=Contribution+Graph"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=P-KAVYASRI&theme=github-compact&hide_border=true"/>
+
 </div>
 
 ## `Currently Focusing on `
