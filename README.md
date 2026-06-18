@@ -29,7 +29,7 @@ Motto      : "Consistent learning is the key to success."
 ```
 
 
-## `Projects.md`
+## `Projects`
 
 <br/>
 
