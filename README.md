@@ -38,7 +38,7 @@ Motto      : "Consistent learning is the key to success."
 | 01 | **URL Shortener App** | Full-stack URL shortening web application | MERN Stack | [→ View](https://github.com/P-KAVYASRI/URL-SHORTNER) |
 | 02 | **PhoneBook App** | Full-stack contact management system | MERN Stack | [→ View](https://github.com/P-KAVYASRI/PhoneBook-App) |
 | 03 | **Portfolio Website** | Personal developer portfolio | HTML · CSS · JavaScript | [→ View](https://github.com/P-KAVYASRI/KavyasriPortfolio) |
-| 04 | **Streamify** | Real-time full-stack chat application with authentication, one-to-one messaging, online status, and video calling | React · Node.js · Express · MongoDB · Stream Chat · JWT | [↪ View](https://github.com/P-KAVYASRI/Video-Calling-Realtime-Chat-App)|
+| 04 | **Streamify** | Real-time full-stack chat application with authentication, one-to-one messaging, online status, and video calling | React · Node.js · Express · MongoDB · Stream Chat · JWT | [→ View](https://github.com/P-KAVYASRI/Video-Calling-Realtime-Chat-App)|
 | 05 | **Dashboard UI** | Responsive admin analytics dashboard | React · CSS | [→ View](https://github.com/P-KAVYASRI/Dashboard_ui) |
 ---
 
