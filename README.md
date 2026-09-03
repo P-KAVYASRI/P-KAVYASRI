@@ -88,14 +88,21 @@ Motto      : "Consistent learning is the key to success."
 
 <div align="center">
 
-<img height="200em" src="https://leetcard.jacoblin.cool/klu_2200030534?theme=dark&font=Courier%20Prime&ext=contest&hide_border=true"/>
+  <a href="https://leetcode.com/u/klu_2200030534/" target="_blank">
+    <img
+      height="200em"
+      src="https://leetcard.jacoblin.cool/klu_2200030534?theme=dark&font=Courier%20Prime&ext=contest&hide_border=true"
+      alt="LeetCode Stats"
+    />
+  </a>
 
 </div>
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</div>
 
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</div>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=P-KAVYASRI&theme=github-compact&hide_border=true"/>
 </div>
